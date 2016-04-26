@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Hand picked. Personally reviewed. Always the best.
-datePublished: '2016-04-26T16:00:39.953Z'
-dateModified: '2016-04-26T16:00:13.042Z'
+datePublished: '2016-04-26T16:07:56.586Z'
+dateModified: '2016-04-26T16:07:54.566Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-26-hand-picked-personally-reviewed-always-the-best.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-hand-picked-personally-reviewed-always-the-best.md
-published: true
 url: hand-picked-personally-reviewed-always-the-best/index.html
 _type: Article
 
