@@ -1,0 +1,28 @@
+name: We Love That Place
+favicon: null
+layout_spectrum: 0.8577936948277056
+typography_spectrum: 0.9856504637282342
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3518557418137789
+  lightness: 0.17025316110812128
+  saturation: 0.5656468640081584
+  rhythmicContrast: 0.5957295002881438
+purpose: []
